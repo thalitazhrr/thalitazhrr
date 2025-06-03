@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **Thalita Zahra Sutejo**.<br>
+I'm **Thalita Zahra Sutejo**<br>
 
 🎓 A passionate **Information Systems and Technology (STI)** student from ITB
 
