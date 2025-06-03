@@ -1,9 +1,13 @@
 ## Hi there! 👋
 
 Perkenalkan, saya **Thalita Zahra**.<br>
+
 🎓 A passionate **Information Systems and Technology (STI)** student from ITB
+
 📊 Strong interest in **Data Analytics**, **Web Development**, and **Business Analysis**
+
 🎨 Exploring **UI/UX Design** and passionate about **visual storytelling**
+
 💬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/thalitazahras/)
 
 ---
