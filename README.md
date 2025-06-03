@@ -27,6 +27,14 @@ I'm **Thalita Zahra Sutejo**<br>
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=thalitazhrr&theme=algolia&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="left">
@@ -35,4 +43,3 @@ I'm **Thalita Zahra Sutejo**<br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thalitazhrr&layout=compact&theme=algolia"/>
 </a>
 </p>
- 
